@@ -26,7 +26,7 @@
   
   ###
   
-  <p align="left">I'm Ghaida Ja'aysah from Palestine<br><br>- 📚 I’m studing computer systems engineering <br> </p>
+  <p align="left">- 🔭 I'm Ghaida Ja'aysah from Palestine<br><br>- 📚 I’m studing computer systems engineering <br> </p>
   
   ###
   
