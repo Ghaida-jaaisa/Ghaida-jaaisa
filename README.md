@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi%20there%20%F0%9F%91%8B&fontSize=90)
-  
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi%20there%20%F0%9F%91%8B&fontSize=90) -->  
 <div align="center">
     <img height="150" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=790b761100gutj8biybutw3efwd468mk7frwh2sbn1o66s0u&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
   </div>
