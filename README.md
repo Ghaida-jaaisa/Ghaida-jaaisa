@@ -66,7 +66,8 @@
   
   ###
 
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghaida-jaaisa&show_icons=true&locale=en&layout=compact" alt="ghaida-jaaisa" /></p>
+ <p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghaida-jaaisa&show_icons=true&locale=en&layout=compact" alt="ghaida-jaaisa" /></p>
+  
   ###
   <div align="center">
     <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXJ3aXhxMzZuM252bG9ja2c2YzF2NHdid2t1Zm82ZHo1cTR3ZGx2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif"  />
