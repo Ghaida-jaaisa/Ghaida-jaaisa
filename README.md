@@ -9,7 +9,7 @@
 
   <br/><br/>
 
-  <a href="https://ghaida-portfolio.vercel.app/" target="_blank">
+  <a href="https://ghaidajaaysah.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/ghaida-jaaisa" target="_blank">
